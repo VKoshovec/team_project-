@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "team_project-",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VladimirKoshovec.github.io/team_project",
+  "homepage": "https://github.com/VKoshovec/team_project-",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team_project/"
+    "build": "parcel build src/*.html --public-url /team_project-/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/goitacademy/team_project-.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
